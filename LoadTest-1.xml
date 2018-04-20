@@ -3,7 +3,7 @@
   <con:settings>
     <con:setting id="soapUIObjectSourceId">fa5b070e-49dc-4439-ab6c-1439b26bf27e</con:setting>
     <con:setting id="convertedFromLoadTestModelItemId">02070f93-1e38-4c2d-b769-a0e866f4a22a</con:setting>
-    <con:setting id="d5b2fd52-8ac9-4023-b4ef-f58bf04d94ccfileName">LoadTest-1</con:setting>
+    <con:setting id="d5b2fd52-8ac9-4023-b4ef-f58bf04d94ccfileName">LoadTest-1.xml</con:setting>
   </con:settings>
   <con1:loadui-project id="80c462f8-5676-4132-9570-8f19787bf607" label="LoadTest 1" xmlns:con1="http://eviware.com/loadui/config">
     <con1:properties>

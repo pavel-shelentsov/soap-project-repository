@@ -3,7 +3,7 @@
   <con:settings>
     <con:setting id="soapUIObjectSourceId">fc3cfb74-e41f-4a86-9308-2be383633755</con:setting>
     <con:setting id="convertedFromLoadTestModelItemId">aec1683a-1e1f-47ae-96ef-5689adc5a81b</con:setting>
-    <con:setting id="a18f3247-6d60-4584-aebb-472642b78842fileName">LoadTest-with-Multiple-Tests-%28will-fail%29</con:setting>
+    <con:setting id="a18f3247-6d60-4584-aebb-472642b78842fileName">LoadTest-with-Multiple-Tests-%28will-fail%29.xml</con:setting>
   </con:settings>
   <con1:loadui-project id="08dd4a3e-1bf3-4f79-b12b-6cfa628afe5c" label="LoadTest with Multiple Tests (will fail)" xmlns:con1="http://eviware.com/loadui/config">
     <con1:properties>

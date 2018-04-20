@@ -3,7 +3,7 @@
   <con:settings>
     <con:setting id="soapUIObjectSourceId">78441527-271d-4161-8d69-ee5f14de1de3</con:setting>
     <con:setting id="convertedFromLoadTestModelItemId">2da1096d-75ce-4109-8920-da536ddec4f3</con:setting>
-    <con:setting id="fa6fdf6d-ee58-479f-aa2e-32241df9c5acfileName">LoadTest---Simple-Strategy</con:setting>
+    <con:setting id="fa6fdf6d-ee58-479f-aa2e-32241df9c5acfileName">LoadTest---Simple-Strategy.xml</con:setting>
   </con:settings>
   <con1:loadui-project id="deca47ad-d8ad-4d1d-800c-219dc6a14ed0" label="LoadTest - Simple Strategy" xmlns:con1="http://eviware.com/loadui/config">
     <con1:properties>
